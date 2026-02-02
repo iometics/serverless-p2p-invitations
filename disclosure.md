@@ -3,7 +3,7 @@
 
 **Author:** ioMetics LLC  
 **System Reference Implementation:** *in8 Engine*  
-**Date of Publication:** [insert date]  
+**Date of Publication:** February 2, 2026  
 **Intended Status:** Public-domain defensive publication / prior art  
 
 ---
