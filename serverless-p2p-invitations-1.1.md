@@ -2643,11 +2643,11 @@ Special thanks to all who contributed ideas, code, feedback, and rigorous techni
 
 ---
 
-**Maintained at**: [repository URL]  
+**Maintained at**: [\[repository URL\]](https://github.com/iometics/serverless-p2p-invitations)  
 **For questions, suggestions, or contributions**: [contact information]  
-**Latest version**: [version URL]  
-**Discussion forum**: [forum URL]  
-**Reference implementation**: [implementation URL]
+**Latest version**: 1.1  
+**Discussion forum**: TBD  
+**Reference implementation**: TBD
 
 ---
 
